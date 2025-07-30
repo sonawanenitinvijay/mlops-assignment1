@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1753901788285
+current_stage: None
+description: null
+last_updated_timestamp: 1753901788285
+name: housing_model
+run_id: 475323cbaa1d4e48bfa83a5f8b749980
+run_link: null
+source: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/297598585035469141/475323cbaa1d4e48bfa83a5f8b749980/artifacts/model
+status: READY
+status_message: null
+storage_location: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/297598585035469141/475323cbaa1d4e48bfa83a5f8b749980/artifacts/model
+user_id: null
+version: 2

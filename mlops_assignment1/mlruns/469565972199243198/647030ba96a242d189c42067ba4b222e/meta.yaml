@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/469565972199243198/647030ba96a242d189c42067ba4b222e/artifacts
+end_time: 1753888085644
+entry_point_name: ''
+experiment_id: '469565972199243198'
+lifecycle_stage: active
+run_id: 647030ba96a242d189c42067ba4b222e
+run_name: logistic_iris
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753888085581
+status: 4
+tags: []
+user_id: sonaw

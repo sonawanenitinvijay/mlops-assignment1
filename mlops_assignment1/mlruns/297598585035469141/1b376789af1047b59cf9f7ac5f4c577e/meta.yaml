@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/297598585035469141/1b376789af1047b59cf9f7ac5f4c577e/artifacts
+end_time: 1753901753623
+entry_point_name: ''
+experiment_id: '297598585035469141'
+lifecycle_stage: active
+run_id: 1b376789af1047b59cf9f7ac5f4c577e
+run_name: linear_housing
+run_uuid: 1b376789af1047b59cf9f7ac5f4c577e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753901747972
+status: 3
+tags: []
+user_id: sonaw

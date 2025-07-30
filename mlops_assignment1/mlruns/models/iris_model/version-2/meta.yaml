@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1753901064747
+current_stage: None
+description: null
+last_updated_timestamp: 1753901064747
+name: iris_model
+run_id: 3d05cad324c040f0b050e86acae416e0
+run_link: null
+source: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/469565972199243198/3d05cad324c040f0b050e86acae416e0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:C:/Projects/mlops-assignment1/mlops_assignment1/mlruns/469565972199243198/3d05cad324c040f0b050e86acae416e0/artifacts/model
+user_id: null
+version: 2

@@ -1,3 +1,12 @@
 /config.local
 /tmp
 /cache
+# VS Code settings
+.vscode/
+
+# MLflow outputs
+mlruns/
+
+# Python cache
+__pycache__/
+*.pyc

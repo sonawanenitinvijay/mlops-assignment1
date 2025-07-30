@@ -1,0 +1,6 @@
+artifact_location: file:C:/Projects/mlops-assignment1/mlruns/266090345504040672
+creation_time: 1753898956064
+experiment_id: '266090345504040672'
+last_update_time: 1753898956064
+lifecycle_stage: active
+name: iris-experiments
